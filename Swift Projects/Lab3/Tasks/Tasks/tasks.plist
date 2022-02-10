@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>tasks</key>
+		<array>
+			<string>Buy food</string>
+		</array>
+		<key>priority</key>
+		<string>High</string>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<string>Medium</string>
+		<key>tasks</key>
+		<array>
+			<string>Study for exam</string>
+		</array>
+	</dict>
+	<dict>
+		<key>priority</key>
+		<string>Low</string>
+		<key>tasks</key>
+		<array>
+			<string>Take dog to walk</string>
+		</array>
+	</dict>
+</array>
+</plist>
